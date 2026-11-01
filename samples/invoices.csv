@@ -1,0 +1,9 @@
+invoice_id,customer_id,customer_name,issued_on,due_on,amount
+INV-001,CUST-A,Loja Açúcar,2026-10-01,2026-10-10,100.00
+INV-002,CUST-B,Ateliê Horizonte,2026-10-02,2026-10-12,80.00
+INV-003,CUST-C,Oficina Fictícia,2026-10-03,2026-10-13,50.00
+INV-004,CUST-D,Example Studio,2026-10-04,2026-10-14,20.00
+INV-001,CUST-A,Loja Açúcar,2026-10-01,2026-10-10,100.00
+INV-002,CUST-B,Ateliê Horizonte,2026-10-02,2026-10-12,81.00
+INV-BAD,CUST-X,Invalid date fixture,2026-02-30,2026-03-10,10.00
+INV-NAN,CUST-X,Invalid money fixture,2026-10-01,2026-10-02,NaN
